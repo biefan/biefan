@@ -1,16 +1,76 @@
-## Hi there 👋
+# Hi, I'm biefan 👋
 
-<!--
-**biefan/biefan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+AI coding · automation · developer workflows
 
-Here are some ideas to get you started:
+Building practical tools with GPT / Claude for productivity, engineering, and everyday tasks.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🔧 What I'm building
+
+- AI-powered developer tools  
+- Workflow automation with LLMs  
+- Coding assistants and productivity tools  
+- Prompt engineering experiments  
+
+---
+
+## 🚀 Projects
+
+### ai-playground
+Experiments with LLM workflows and AI coding.
+
+Includes:
+- prompt engineering experiments
+- AI-assisted coding workflows
+- automation scripts
+- developer tooling experiments
+
+### ai-workflows
+Practical workflows using AI.
+
+Examples:
+- debugging with GPT
+- code review prompts
+- log analysis automation
+- documentation generation
+
+### llm-tools
+Small utilities powered by LLMs.
+
+Tools:
+- log analyzer
+- prompt debugger
+- code explainer
+- doc generator
+
+---
+
+## 🧠 Interests
+
+- AI coding
+- LLM tooling
+- AI agents
+- developer automation
+- productivity workflows
+
+---
+
+## 🧪 Currently exploring
+
+- GPT / Claude ecosystems  
+- AI-assisted coding workflows  
+- agent-based automation  
+- practical uses of LLMs in development  
+
+---
+
+## ⚡ Philosophy
+
+Using AI to reduce repetitive work, improve developer productivity, and build useful tools.
+
+---
+
+## 📌 Notes
+
+This space is used for experimenting with AI, building small tools, and exploring new workflows with LLMs.

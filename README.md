@@ -33,7 +33,3 @@ Engineering:
 
 
 Final output
-
-
-## 📊 Stats
-https://github-readme-stats.vercel.app/api?username=biefan&show_icons=true&theme=default

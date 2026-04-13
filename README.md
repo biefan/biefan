@@ -4,6 +4,8 @@
 
 ---
 
+[![Tokscale Stats](https://tokscale.ai/api/embed/biefan/svg)](https://tokscale.ai/u/biefan)
+
 ## 🧠 About Me
 
 - ⚙️ Building **AI-native systems**, not AI features  
